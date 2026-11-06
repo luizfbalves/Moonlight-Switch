@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This fork has moved to [luizfbalves/Equinox](https://github.com/luizfbalves/Equinox).** It is archived and no longer updated. Download new releases from [Equinox releases](https://github.com/luizfbalves/Equinox/releases); install `Equinox.nro` once by hand, after that the in-app updater keeps it current.
+
 # Moonlight-Switch
 
 Moonlight-Switch is a port of [Moonlight Game Streaming Project](https://github.com/moonlight-stream "Moonlight Game Streaming Project") for Nintendo Switch.
